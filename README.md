@@ -117,6 +117,7 @@
 | [0434-number-of-segments-in-a-string](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/0434-number-of-segments-in-a-string) |
 | [0520-detect-capital](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/0520-detect-capital) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0678-valid-parenthesis-string](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/0678-valid-parenthesis-string) |
 ## Two Pointers
 |  |
 | ------- |
@@ -138,16 +139,19 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
 | [0134-gas-station](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/0134-gas-station) |
+| [0678-valid-parenthesis-string](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/0678-valid-parenthesis-string) |
 ## Stack
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/0032-longest-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/0678-valid-parenthesis-string) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/0032-longest-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/0678-valid-parenthesis-string) |
 ## String Matching
 |  |
 | ------- |
@@ -169,6 +173,7 @@
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/0032-longest-valid-parentheses) |
 | [0053-maximum-subarray](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
+| [0678-valid-parenthesis-string](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/0678-valid-parenthesis-string) |
 ## Recursion
 |  |
 | ------- |
