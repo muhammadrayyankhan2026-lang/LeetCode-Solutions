@@ -17,6 +17,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
 ## Binary Search
 |  |
 | ------- |
@@ -31,11 +32,13 @@
 | [0007-reverse-integer](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
 ## String
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/0008-string-to-integer-atoi) |
 | [0012-integer-to-roman](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
 ## Two Pointers
 |  |
 | ------- |
