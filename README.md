@@ -39,6 +39,7 @@
 | [0977-squares-of-a-sorted-array](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1287-element-appearing-more-than-25-in-sorted-array](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/1287-element-appearing-more-than-25-in-sorted-array) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3875-construct-uniform-parity-array-i](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/3875-construct-uniform-parity-array-i) |
@@ -262,6 +263,7 @@
 | [0905-sort-array-by-parity](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Counting
 |  |
 | ------- |
@@ -325,4 +327,8 @@
 | ------- |
 | [3903-smallest-stable-index-i](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/3904-smallest-stable-index-ii) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 <!---LeetCode Topics End-->
