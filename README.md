@@ -56,6 +56,7 @@
 | [2164-sort-even-and-odd-indices-independently](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/2164-sort-even-and-odd-indices-independently) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/2778-sum-of-squares-of-special-elements) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3875-construct-uniform-parity-array-i](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/3876-construct-uniform-parity-array-ii) |
@@ -150,6 +151,7 @@
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3870-count-commas-in-range](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/3871-count-commas-in-range-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/3875-construct-uniform-parity-array-i) |
@@ -380,6 +382,7 @@
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/1991-find-the-middle-index-in-array) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3903-smallest-stable-index-i](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/3904-smallest-stable-index-ii) |
 ## Heap (Priority Queue)
