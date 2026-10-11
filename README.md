@@ -35,6 +35,7 @@
 | [0877-stone-game](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/0877-stone-game) |
 | [0905-sort-array-by-parity](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/0905-sort-array-by-parity) |
 | [0908-smallest-range-i](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/0908-smallest-range-i) |
+| [0922-sort-array-by-parity-ii](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/0922-sort-array-by-parity-ii) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 ## Enumeration
 |  |
@@ -148,6 +149,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0905-sort-array-by-parity](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/0905-sort-array-by-parity) |
+| [0922-sort-array-by-parity-ii](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/0922-sort-array-by-parity-ii) |
 ## Greedy
 |  |
 | ------- |
@@ -238,6 +240,7 @@
 | [0414-third-maximum-number](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0905-sort-array-by-parity](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/0905-sort-array-by-parity) |
+| [0922-sort-array-by-parity-ii](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/0922-sort-array-by-parity-ii) |
 ## Counting
 |  |
 | ------- |
