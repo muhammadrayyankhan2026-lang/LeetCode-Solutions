@@ -21,6 +21,7 @@
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0169-majority-element](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0204-count-primes](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/0204-count-primes) |
+| [0217-contains-duplicate](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 ## Enumeration
 |  |
@@ -36,6 +37,7 @@
 | [0041-first-missing-positive](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/0041-first-missing-positive) |
 | [0169-majority-element](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/0202-happy-number) |
+| [0217-contains-duplicate](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 ## Binary Search
 |  |
 | ------- |
@@ -148,6 +150,7 @@
 | ------- |
 | [0088-merge-sorted-array](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 ## Counting
 |  |
 | ------- |
