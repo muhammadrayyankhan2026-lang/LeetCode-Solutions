@@ -31,6 +31,7 @@
 | [0414-third-maximum-number](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0704-binary-search](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/0704-binary-search) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 ## Enumeration
 |  |
@@ -66,6 +67,7 @@
 | [0287-find-the-duplicate-number](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0367-valid-perfect-square](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/0367-valid-perfect-square) |
+| [0704-binary-search](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/0704-binary-search) |
 ## Divide and Conquer
 |  |
 | ------- |
