@@ -89,6 +89,7 @@
 | [0326-power-of-three](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/0367-valid-perfect-square) |
+| [0412-fizz-buzz](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/0412-fizz-buzz) |
 ## String
 |  |
 | ------- |
@@ -106,6 +107,7 @@
 | [0344-reverse-string](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/0389-find-the-difference) |
+| [0412-fizz-buzz](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/0412-fizz-buzz) |
 ## Two Pointers
 |  |
 | ------- |
@@ -183,6 +185,7 @@
 | ------- |
 | [0067-add-binary](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/0258-add-digits) |
+| [0412-fizz-buzz](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/0412-fizz-buzz) |
 ## Newton's Method
 |  |
 | ------- |
