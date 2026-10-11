@@ -186,6 +186,7 @@
 | [0287-find-the-duplicate-number](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/0389-find-the-difference) |
+| [0476-number-complement](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/0476-number-complement) |
 ## Simulation
 |  |
 | ------- |
