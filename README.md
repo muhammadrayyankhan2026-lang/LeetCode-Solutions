@@ -122,6 +122,7 @@
 | [0557-reverse-words-in-a-string-iii](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0678-valid-parenthesis-string](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/0678-valid-parenthesis-string) |
 | [0709-to-lower-case](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/0709-to-lower-case) |
+| [0796-rotate-string](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/0796-rotate-string) |
 ## Two Pointers
 |  |
 | ------- |
@@ -160,6 +161,7 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0796-rotate-string](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/0796-rotate-string) |
 ## Z Algorithm
 |  |
 | ------- |
