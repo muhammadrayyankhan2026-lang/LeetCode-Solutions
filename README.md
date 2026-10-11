@@ -8,6 +8,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/0027-remove-element) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 ## Enumeration
 |  |
@@ -46,6 +47,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/0027-remove-element) |
 ## Greedy
 |  |
 | ------- |
