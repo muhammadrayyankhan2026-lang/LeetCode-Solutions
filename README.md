@@ -109,6 +109,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/0389-find-the-difference) |
 | [0412-fizz-buzz](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/0412-fizz-buzz) |
+| [0434-number-of-segments-in-a-string](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/0434-number-of-segments-in-a-string) |
 ## Two Pointers
 |  |
 | ------- |
