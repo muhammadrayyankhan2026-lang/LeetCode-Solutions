@@ -85,6 +85,7 @@
 | [0442-find-all-duplicates-in-an-array](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1748-sum-of-unique-elements](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/1748-sum-of-unique-elements) |
+| [2351-first-letter-to-appear-twice](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/2351-first-letter-to-appear-twice) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Binary Search
 |  |
@@ -177,6 +178,7 @@
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1816-truncate-sentence](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/1816-truncate-sentence) |
 | [2129-capitalize-the-title](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/2129-capitalize-the-title) |
+| [2351-first-letter-to-appear-twice](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/2351-first-letter-to-appear-twice) |
 ## Two Pointers
 |  |
 | ------- |
@@ -266,6 +268,7 @@
 | [0342-power-of-four](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/0389-find-the-difference) |
 | [0476-number-complement](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/0476-number-complement) |
+| [2351-first-letter-to-appear-twice](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/2351-first-letter-to-appear-twice) |
 ## Simulation
 |  |
 | ------- |
@@ -304,6 +307,7 @@
 | [0229-majority-element-ii](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/0229-majority-element-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [1748-sum-of-unique-elements](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/1748-sum-of-unique-elements) |
+| [2351-first-letter-to-appear-twice](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/2351-first-letter-to-appear-twice) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
