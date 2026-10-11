@@ -57,6 +57,7 @@
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/3432-count-partitions-with-even-sum-difference) |
+| [3467-transform-array-by-parity](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/3467-transform-array-by-parity) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3875-construct-uniform-parity-array-i](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/3876-construct-uniform-parity-array-ii) |
@@ -313,6 +314,7 @@
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1833-maximum-ice-cream-bars](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/1833-maximum-ice-cream-bars) |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/2164-sort-even-and-odd-indices-independently) |
+| [3467-transform-array-by-parity](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/3467-transform-array-by-parity) |
 ## Counting
 |  |
 | ------- |
@@ -321,6 +323,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [1748-sum-of-unique-elements](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/1748-sum-of-unique-elements) |
 | [2351-first-letter-to-appear-twice](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/2351-first-letter-to-appear-twice) |
+| [3467-transform-array-by-parity](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/3467-transform-array-by-parity) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
