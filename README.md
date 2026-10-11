@@ -32,6 +32,7 @@
 | [0442-find-all-duplicates-in-an-array](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0704-binary-search](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/0704-binary-search) |
+| [0905-sort-array-by-parity](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/0905-sort-array-by-parity) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 ## Enumeration
 |  |
@@ -141,6 +142,7 @@
 | [0344-reverse-string](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0905-sort-array-by-parity](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/0905-sort-array-by-parity) |
 ## Greedy
 |  |
 | ------- |
@@ -226,6 +228,7 @@
 | [0389-find-the-difference](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0905-sort-array-by-parity](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/0905-sort-array-by-parity) |
 ## Counting
 |  |
 | ------- |
