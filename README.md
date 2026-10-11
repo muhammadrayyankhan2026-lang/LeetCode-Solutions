@@ -28,6 +28,7 @@
 | [0283-move-zeroes](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0414-third-maximum-number](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/0414-third-maximum-number) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 ## Enumeration
 |  |
@@ -200,6 +201,7 @@
 | [0268-missing-number](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/0389-find-the-difference) |
+| [0414-third-maximum-number](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/0414-third-maximum-number) |
 ## Counting
 |  |
 | ------- |
