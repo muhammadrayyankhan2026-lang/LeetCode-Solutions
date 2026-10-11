@@ -76,6 +76,7 @@
 | [0258-add-digits](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/0268-missing-number) |
+| [0273-integer-to-english-words](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/0273-integer-to-english-words) |
 ## String
 |  |
 | ------- |
@@ -89,6 +90,7 @@
 | [0067-add-binary](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/0151-reverse-words-in-a-string) |
+| [0273-integer-to-english-words](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/0273-integer-to-english-words) |
 ## Two Pointers
 |  |
 | ------- |
@@ -141,6 +143,7 @@
 | ------- |
 | [0050-powx-n](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/0231-power-of-two) |
+| [0273-integer-to-english-words](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/0273-integer-to-english-words) |
 ## Bit Manipulation
 |  |
 | ------- |
