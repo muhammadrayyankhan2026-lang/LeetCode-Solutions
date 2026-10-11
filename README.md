@@ -69,6 +69,7 @@
 | [1952-three-divisors](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/1952-three-divisors) |
 | [2427-number-of-common-factors](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/2427-number-of-common-factors) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/2778-sum-of-squares-of-special-elements) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -148,6 +149,7 @@
 | [2427-number-of-common-factors](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/2427-number-of-common-factors) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/2894-divisible-and-non-divisible-sums-difference) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3870-count-commas-in-range](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/3871-count-commas-in-range-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/3875-construct-uniform-parity-array-i) |
