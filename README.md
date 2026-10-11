@@ -49,6 +49,7 @@
 | [1822-sign-of-the-product-of-an-array](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1833-maximum-ice-cream-bars](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/1833-maximum-ice-cream-bars) |
 | [1929-concatenation-of-array](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/1929-concatenation-of-array) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3875-construct-uniform-parity-array-i](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/3875-construct-uniform-parity-array-i) |
@@ -135,6 +136,7 @@
 | [1688-count-of-matches-in-tournament](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/1688-count-of-matches-in-tournament) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1952-three-divisors](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/1952-three-divisors) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3870-count-commas-in-range](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/3871-count-commas-in-range-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/3875-construct-uniform-parity-array-i) |
@@ -308,6 +310,7 @@
 | [0204-count-primes](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/0258-add-digits) |
 | [1952-three-divisors](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/1952-three-divisors) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Primality Test
 |  |
 | ------- |
@@ -364,4 +367,12 @@
 |  |
 | ------- |
 | [1952-three-divisors](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/1952-three-divisors) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 <!---LeetCode Topics End-->
