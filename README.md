@@ -23,6 +23,7 @@
 | [0204-count-primes](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/0229-majority-element-ii) |
+| [0260-single-number-iii](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/0260-single-number-iii) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 ## Enumeration
 |  |
@@ -143,6 +144,7 @@
 | [0137-single-number-ii](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/0137-single-number-ii) |
 | [0191-number-of-1-bits](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/0231-power-of-two) |
+| [0260-single-number-iii](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/0260-single-number-iii) |
 ## Simulation
 |  |
 | ------- |
