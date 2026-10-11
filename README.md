@@ -38,6 +38,7 @@
 | [0922-sort-array-by-parity-ii](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/2778-sum-of-squares-of-special-elements) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3903-smallest-stable-index-i](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/3904-smallest-stable-index-ii) |
 | [3917-count-indices-with-opposite-parity](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/3917-count-indices-with-opposite-parity) |
@@ -111,6 +112,7 @@
 | [0877-stone-game](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/0877-stone-game) |
 | [0908-smallest-range-i](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/0908-smallest-range-i) |
 | [3871-count-commas-in-range-ii](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/3871-count-commas-in-range-ii) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/3876-construct-uniform-parity-array-ii) |
 ## String
 |  |
 | ------- |
