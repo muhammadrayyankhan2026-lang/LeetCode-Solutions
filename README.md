@@ -28,6 +28,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0069-sqrtx](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/0069-sqrtx) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -43,6 +44,7 @@
 | [0050-powx-n](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/0067-add-binary) |
+| [0069-sqrtx](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/0069-sqrtx) |
 ## String
 |  |
 | ------- |
@@ -108,4 +110,8 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/0067-add-binary) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
