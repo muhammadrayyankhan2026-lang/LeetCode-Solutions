@@ -15,6 +15,7 @@
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0134-gas-station](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/0134-gas-station) |
+| [0136-single-number](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/0136-single-number) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 ## Enumeration
 |  |
@@ -114,6 +115,7 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/0067-add-binary) |
+| [0136-single-number](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/0136-single-number) |
 ## Simulation
 |  |
 | ------- |
