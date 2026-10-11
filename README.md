@@ -154,6 +154,7 @@
 | [0824-goat-latin](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/0824-goat-latin) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1154-day-of-the-year](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/1154-day-of-the-year) |
+| [1592-rearrange-spaces-between-words](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/1592-rearrange-spaces-between-words) |
 ## Two Pointers
 |  |
 | ------- |
