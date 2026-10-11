@@ -123,6 +123,7 @@
 | [0678-valid-parenthesis-string](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/0678-valid-parenthesis-string) |
 | [0709-to-lower-case](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/0709-to-lower-case) |
 | [0796-rotate-string](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/0796-rotate-string) |
+| [0824-goat-latin](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/0824-goat-latin) |
 ## Two Pointers
 |  |
 | ------- |
