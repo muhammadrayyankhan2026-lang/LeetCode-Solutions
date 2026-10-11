@@ -10,6 +10,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/0027-remove-element) |
 | [0041-first-missing-positive](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/0041-first-missing-positive) |
+| [0053-maximum-subarray](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 ## Enumeration
 |  |
@@ -30,6 +31,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0053-maximum-subarray](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
 ## Math
 |  |
 | ------- |
@@ -88,6 +90,7 @@
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/0032-longest-valid-parentheses) |
+| [0053-maximum-subarray](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
 ## Recursion
 |  |
 | ------- |
