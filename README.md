@@ -59,6 +59,7 @@
 | [3432-count-partitions-with-even-sum-difference](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3467-transform-array-by-parity](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/3467-transform-array-by-parity) |
 | [3524-find-x-value-of-array-i](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/3524-find-x-value-of-array-i) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3875-construct-uniform-parity-array-i](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/3876-construct-uniform-parity-array-ii) |
@@ -156,6 +157,7 @@
 | [3432-count-partitions-with-even-sum-difference](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3524-find-x-value-of-array-i](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/3524-find-x-value-of-array-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/3536-maximum-product-of-two-digits) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3870-count-commas-in-range](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/3871-count-commas-in-range-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/3875-construct-uniform-parity-array-i) |
