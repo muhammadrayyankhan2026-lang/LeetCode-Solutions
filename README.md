@@ -39,6 +39,7 @@
 | [0008-string-to-integer-atoi](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/0008-string-to-integer-atoi) |
 | [0012-integer-to-roman](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
+| [0020-valid-parentheses](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
 ## Two Pointers
 |  |
 | ------- |
@@ -47,4 +48,12 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
