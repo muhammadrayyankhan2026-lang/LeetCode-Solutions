@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0011-container-with-most-water](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 ## Enumeration
 |  |
@@ -32,4 +33,12 @@
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/0008-string-to-integer-atoi) |
+## Two Pointers
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
