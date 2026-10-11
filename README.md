@@ -24,6 +24,7 @@
 | [0217-contains-duplicate](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/0229-majority-element-ii) |
 | [0260-single-number-iii](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/0260-single-number-iii) |
+| [0268-missing-number](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 ## Enumeration
 |  |
@@ -41,6 +42,7 @@
 | [0202-happy-number](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/0229-majority-element-ii) |
+| [0268-missing-number](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/0268-missing-number) |
 ## Binary Search
 |  |
 | ------- |
@@ -49,6 +51,7 @@
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0268-missing-number](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/0268-missing-number) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -72,6 +75,7 @@
 | [0231-power-of-two](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/0263-ugly-number) |
+| [0268-missing-number](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/0268-missing-number) |
 ## String
 |  |
 | ------- |
@@ -146,6 +150,7 @@
 | [0191-number-of-1-bits](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/0231-power-of-two) |
 | [0260-single-number-iii](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/0260-single-number-iii) |
+| [0268-missing-number](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/0268-missing-number) |
 ## Simulation
 |  |
 | ------- |
@@ -162,6 +167,7 @@
 | [0169-majority-element](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/0229-majority-element-ii) |
+| [0268-missing-number](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/0268-missing-number) |
 ## Counting
 |  |
 | ------- |
