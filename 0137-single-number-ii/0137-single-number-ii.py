@@ -4,10 +4,11 @@ class Solution(object):
         :type nums: List[int]
         :rtype: int
         """
-        ans=0
-        nums=sorted(nums)
-        print(nums)
+        di={}
         for h in nums:
-            ans=ans^h
-        return ans
+            di[h]=di.get(h,0)+1
+        for l,m in di.items():
+            if m==1:
+                return l
+        return 0
         
