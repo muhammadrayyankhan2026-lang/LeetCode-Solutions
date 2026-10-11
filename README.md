@@ -11,6 +11,7 @@
 | [0027-remove-element](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/0027-remove-element) |
 | [0041-first-missing-positive](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/0041-first-missing-positive) |
 | [0053-maximum-subarray](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
+| [0066-plus-one](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/0066-plus-one) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 ## Enumeration
 |  |
@@ -40,6 +41,7 @@
 | [0012-integer-to-roman](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/0050-powx-n) |
+| [0066-plus-one](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/0066-plus-one) |
 ## String
 |  |
 | ------- |
