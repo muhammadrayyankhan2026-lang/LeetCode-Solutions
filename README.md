@@ -174,6 +174,7 @@
 | [1592-rearrange-spaces-between-words](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/1592-rearrange-spaces-between-words) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1816-truncate-sentence](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/1816-truncate-sentence) |
+| [2129-capitalize-the-title](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/2129-capitalize-the-title) |
 ## Two Pointers
 |  |
 | ------- |
