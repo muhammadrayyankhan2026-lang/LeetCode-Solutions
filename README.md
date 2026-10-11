@@ -32,6 +32,7 @@
 | [0442-find-all-duplicates-in-an-array](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0704-binary-search](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/0704-binary-search) |
+| [0877-stone-game](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/0877-stone-game) |
 | [0905-sort-array-by-parity](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/0905-sort-array-by-parity) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 ## Enumeration
@@ -101,6 +102,7 @@
 | [0507-perfect-number](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/0507-perfect-number) |
 | [0728-self-dividing-numbers](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/0728-self-dividing-numbers) |
 | [0836-rectangle-overlap](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/0836-rectangle-overlap) |
+| [0877-stone-game](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/0877-stone-game) |
 ## String
 |  |
 | ------- |
@@ -184,6 +186,7 @@
 | [0032-longest-valid-parentheses](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/0032-longest-valid-parentheses) |
 | [0053-maximum-subarray](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
 | [0678-valid-parenthesis-string](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/0678-valid-parenthesis-string) |
+| [0877-stone-game](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/0877-stone-game) |
 ## Recursion
 |  |
 | ------- |
@@ -274,4 +277,16 @@
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/0836-rectangle-overlap) |
+## Minimax
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/0877-stone-game) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/0877-stone-game) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
