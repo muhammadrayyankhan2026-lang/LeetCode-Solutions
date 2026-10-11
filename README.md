@@ -26,6 +26,7 @@
 | [0260-single-number-iii](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 ## Enumeration
 |  |
@@ -53,6 +54,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0268-missing-number](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -104,6 +106,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0202-happy-number](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
 ## Greedy
 |  |
 | ------- |
@@ -156,6 +159,7 @@
 | [0231-power-of-two](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/0231-power-of-two) |
 | [0260-single-number-iii](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
 ## Simulation
 |  |
 | ------- |
@@ -187,6 +191,7 @@
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/0202-happy-number) |
+| [0287-find-the-duplicate-number](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
 ## Number Theory
 |  |
 | ------- |
@@ -204,4 +209,8 @@
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/0204-count-primes) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
