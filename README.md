@@ -38,6 +38,7 @@
 | [0922-sort-array-by-parity-ii](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/2778-sum-of-squares-of-special-elements) |
+| [3904-smallest-stable-index-ii](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/3904-smallest-stable-index-ii) |
 | [3917-count-indices-with-opposite-parity](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/3917-count-indices-with-opposite-parity) |
 ## Enumeration
 |  |
@@ -302,4 +303,8 @@
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/0877-stone-game) |
+## Prefix Sum
+|  |
+| ------- |
+| [3904-smallest-stable-index-ii](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/3904-smallest-stable-index-ii) |
 <!---LeetCode Topics End-->
