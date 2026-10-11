@@ -34,6 +34,7 @@
 | [0704-binary-search](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/0704-binary-search) |
 | [0877-stone-game](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/0877-stone-game) |
 | [0905-sort-array-by-parity](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/0905-sort-array-by-parity) |
+| [0908-smallest-range-i](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/0908-smallest-range-i) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 ## Enumeration
 |  |
@@ -103,6 +104,7 @@
 | [0728-self-dividing-numbers](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/0728-self-dividing-numbers) |
 | [0836-rectangle-overlap](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/0877-stone-game) |
+| [0908-smallest-range-i](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/0908-smallest-range-i) |
 ## String
 |  |
 | ------- |
