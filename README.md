@@ -46,6 +46,7 @@
 | [1748-sum-of-unique-elements](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/1748-sum-of-unique-elements) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1816-truncate-sentence](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/1816-truncate-sentence) |
+| [1822-sign-of-the-product-of-an-array](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3875-construct-uniform-parity-array-i](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/3875-construct-uniform-parity-array-i) |
@@ -129,6 +130,7 @@
 | [1317-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/1317-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1688-count-of-matches-in-tournament](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/1688-count-of-matches-in-tournament) |
+| [1822-sign-of-the-product-of-an-array](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/1822-sign-of-the-product-of-an-array) |
 | [3870-count-commas-in-range](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/3871-count-commas-in-range-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/3875-construct-uniform-parity-array-i) |
