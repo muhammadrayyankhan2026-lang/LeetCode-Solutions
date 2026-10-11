@@ -116,6 +116,7 @@
 | [0412-fizz-buzz](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/0412-fizz-buzz) |
 | [0434-number-of-segments-in-a-string](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/0434-number-of-segments-in-a-string) |
 | [0520-detect-capital](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/0520-detect-capital) |
+| [0557-reverse-words-in-a-string-iii](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/0557-reverse-words-in-a-string-iii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -131,6 +132,7 @@
 | [0287-find-the-duplicate-number](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0557-reverse-words-in-a-string-iii](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/0557-reverse-words-in-a-string-iii) |
 ## Greedy
 |  |
 | ------- |
