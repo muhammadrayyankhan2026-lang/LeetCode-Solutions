@@ -53,6 +53,7 @@
 | [1991-find-the-middle-index-in-array](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/1991-find-the-middle-index-in-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2164-sort-even-and-odd-indices-independently](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/2164-sort-even-and-odd-indices-independently) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3875-construct-uniform-parity-array-i](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/3875-construct-uniform-parity-array-i) |
@@ -295,6 +296,7 @@
 | [0977-squares-of-a-sorted-array](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1833-maximum-ice-cream-bars](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/1833-maximum-ice-cream-bars) |
+| [2164-sort-even-and-odd-indices-independently](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/2164-sort-even-and-odd-indices-independently) |
 ## Counting
 |  |
 | ------- |
