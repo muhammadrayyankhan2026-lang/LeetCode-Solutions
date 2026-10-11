@@ -68,6 +68,7 @@
 | [0069-sqrtx](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/0069-sqrtx) |
 | [0202-happy-number](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/0204-count-primes) |
+| [0231-power-of-two](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/0231-power-of-two) |
 ## String
 |  |
 | ------- |
@@ -132,6 +133,7 @@
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/0050-powx-n) |
+| [0231-power-of-two](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/0231-power-of-two) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -139,6 +141,7 @@
 | [0136-single-number](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/0137-single-number-ii) |
 | [0191-number-of-1-bits](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/0191-number-of-1-bits) |
+| [0231-power-of-two](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/0231-power-of-two) |
 ## Simulation
 |  |
 | ------- |
