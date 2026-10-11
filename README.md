@@ -190,6 +190,7 @@
 | [2129-capitalize-the-title](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/2129-capitalize-the-title) |
 | [2351-first-letter-to-appear-twice](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/2351-first-letter-to-appear-twice) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [3498-reverse-degree-of-a-string](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/3498-reverse-degree-of-a-string) |
 ## Two Pointers
 |  |
 | ------- |
@@ -292,6 +293,7 @@
 | [1688-count-of-matches-in-tournament](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/1688-count-of-matches-in-tournament) |
 | [1929-concatenation-of-array](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/1929-concatenation-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
+| [3498-reverse-degree-of-a-string](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/3498-reverse-degree-of-a-string) |
 ## Newton's Method
 |  |
 | ------- |
