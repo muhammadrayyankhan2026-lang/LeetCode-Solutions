@@ -99,6 +99,7 @@
 | [0412-fizz-buzz](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/0412-fizz-buzz) |
 | [0507-perfect-number](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/0507-perfect-number) |
 | [0728-self-dividing-numbers](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/0728-self-dividing-numbers) |
+| [0836-rectangle-overlap](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/0836-rectangle-overlap) |
 ## String
 |  |
 | ------- |
@@ -266,4 +267,8 @@
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
