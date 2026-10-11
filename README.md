@@ -71,6 +71,7 @@
 | [0204-count-primes](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/0258-add-digits) |
+| [0263-ugly-number](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/0263-ugly-number) |
 ## String
 |  |
 | ------- |
