@@ -12,6 +12,7 @@
 | [0041-first-missing-positive](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/0041-first-missing-positive) |
 | [0053-maximum-subarray](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/0066-plus-one) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 ## Enumeration
 |  |
@@ -29,6 +30,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0069-sqrtx](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/0069-sqrtx) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
