@@ -119,6 +119,7 @@
 | [1154-day-of-the-year](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/1154-day-of-the-year) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1317-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/1317-convert-integer-to-the-sum-of-two-no-zero-integers) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/1401-circle-and-rectangle-overlapping) |
 | [3870-count-commas-in-range](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/3871-count-commas-in-range-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/3875-construct-uniform-parity-array-i) |
@@ -306,6 +307,7 @@
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/0836-rectangle-overlap) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/1401-circle-and-rectangle-overlapping) |
 ## Minimax
 |  |
 | ------- |
