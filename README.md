@@ -4,9 +4,14 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 ## Enumeration
 |  |
 | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/2778-sum-of-squares-of-special-elements) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
