@@ -106,6 +106,7 @@
 | [0287-find-the-duplicate-number](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0367-valid-perfect-square](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/0367-valid-perfect-square) |
+| [0374-guess-number-higher-or-lower](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/0374-guess-number-higher-or-lower) |
 | [0704-binary-search](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/0704-binary-search) |
 ## Divide and Conquer
 |  |
@@ -432,4 +433,8 @@
 |  |
 | ------- |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
