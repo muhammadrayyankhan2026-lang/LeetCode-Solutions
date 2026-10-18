@@ -152,6 +152,7 @@
 | [1952-three-divisors](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2119-a-number-after-a-double-reversal](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/2119-a-number-after-a-double-reversal) |
+| [2235-add-two-integers](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/2235-add-two-integers) |
 | [2427-number-of-common-factors](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/2427-number-of-common-factors) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/2894-divisible-and-non-divisible-sums-difference) |
