@@ -4,17 +4,14 @@ class Solution {
         int len=strs.length;
         String d=strs[0];
         String k=strs[len-1];
-        int l1=d.length();
-        int l2=k.length();
-        int ll=Math.min(l1,l2);
-        String j="";
-        for(int i=0;i<ll;i++)
+        int i=0;
+        while(i<d.length()&&i<k.length())
         {
             if(d.charAt(i)==k.charAt(i))
-                j=j+d.charAt(i);
+                i++;
             else
                 break;
         }
-        return j;
+        return d.substring(0,i);
     }
 }
