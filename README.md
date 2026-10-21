@@ -41,6 +41,7 @@
 | [0905-sort-array-by-parity](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/0905-sort-array-by-parity) |
 | [0908-smallest-range-i](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/0908-smallest-range-i) |
 | [0922-sort-array-by-parity-ii](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/0922-sort-array-by-parity-ii) |
+| [0941-valid-mountain-array](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/0941-valid-mountain-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1287-element-appearing-more-than-25-in-sorted-array](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/1287-element-appearing-more-than-25-in-sorted-array) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
