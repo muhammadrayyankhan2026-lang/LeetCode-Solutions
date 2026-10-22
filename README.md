@@ -25,6 +25,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/0162-find-peak-element) |
+| [0164-maximum-gap](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0204-count-primes](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
@@ -336,6 +337,7 @@
 | ------- |
 | [0075-sort-colors](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
+| [0164-maximum-gap](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/0229-majority-element-ii) |
@@ -397,6 +399,7 @@
 ## Pigeonhole Principle
 |  |
 | ------- |
+| [0164-maximum-gap](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/0164-maximum-gap) |
 | [0287-find-the-duplicate-number](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
 ## Queue
 |  |
@@ -485,4 +488,12 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/0075-sort-colors) |
+## Bucket Sort
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/0164-maximum-gap) |
+## Radix Sort
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/0164-maximum-gap) |
 <!---LeetCode Topics End-->
