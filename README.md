@@ -220,6 +220,7 @@
 | [1816-truncate-sentence](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/1816-truncate-sentence) |
 | [2129-capitalize-the-title](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/2129-capitalize-the-title) |
 | [2351-first-letter-to-appear-twice](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/2351-first-letter-to-appear-twice) |
+| [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3498-reverse-degree-of-a-string](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/3498-reverse-degree-of-a-string) |
 ## Two Pointers
@@ -499,4 +500,8 @@
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/0164-maximum-gap) |
+## Sliding Window
+|  |
+| ------- |
+| [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 <!---LeetCode Topics End-->
