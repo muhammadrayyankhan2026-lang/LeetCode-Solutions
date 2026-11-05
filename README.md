@@ -62,6 +62,7 @@
 | [1991-find-the-middle-index-in-array](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/1991-find-the-middle-index-in-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/2164-sort-even-and-odd-indices-independently) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
@@ -358,6 +359,7 @@
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1833-maximum-ice-cream-bars](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/1833-maximum-ice-cream-bars) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/2164-sort-even-and-odd-indices-independently) |
 | [3467-transform-array-by-parity](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/3467-transform-array-by-parity) |
 | [3536-maximum-product-of-two-digits](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/3536-maximum-product-of-two-digits) |
@@ -369,6 +371,7 @@
 | [0229-majority-element-ii](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/0229-majority-element-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [1748-sum-of-unique-elements](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/1748-sum-of-unique-elements) |
+| [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2351-first-letter-to-appear-twice](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/2351-first-letter-to-appear-twice) |
 | [3467-transform-array-by-parity](https://github.com/muhammadrayyankhan2026-lang/LeetCode-Solutions/tree/master/3467-transform-array-by-parity) |
 ## Boyer–Moore Majority Vote Algorithm
